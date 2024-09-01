@@ -1,2 +1,2 @@
 # Encryptix
-this are all 5 tasks of the given internship 
+these are all 5 tasks of the given internship .
